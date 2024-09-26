@@ -1,0 +1,5 @@
+rootProject.name = 'gradle-practice'
+include 'db-module'
+include 'api-module'
+include 'service-module'
+
